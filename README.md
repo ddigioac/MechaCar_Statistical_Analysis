@@ -19,7 +19,7 @@ After analyzing the Lot Summary of each individual Lot, Lot 3 has the highest va
 
 After analyzing the Total Summary, we can see that the variance for all manufacturing lots in total is also less than 100 which does meet the current design specifications. See below table.
 
-![This is an image]()
+![This is an image](https://github.com/ddigioac/MechaCar_Statistical_Analysis/blob/0c6d5547e48986755326ce17bebbc1827faac060/Total%20Summary.png)
 
 ### T-Tests on Suspension Coils
 
