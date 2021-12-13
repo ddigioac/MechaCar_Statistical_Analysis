@@ -15,7 +15,7 @@ After calculating the Coefficient of Variation (CV) for the dataset we can concl
 
 After analyzing the Lot Summary of each individual Lot, Lot 3 has the highest variance of 170.29, which does not meet the current design specifications as it exceeds 100 pounds per square inch. See below table.
 
-![This is an image]()
+![This is an image](https://github.com/ddigioac/MechaCar_Statistical_Analysis/blob/3c26dd93314af41c2c39e00337673deece282734/Lot%20Summary.png)
 
 After analyzing the Total Summary, we can see that the variance for all manufacturing lots in total is also less than 100 which does meet the current design specifications. See below table.
 
