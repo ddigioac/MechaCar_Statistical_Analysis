@@ -25,9 +25,14 @@ After analyzing the Total Summary, we can see that the variance for all manufact
 
 After analyzing p-values, Lot 1 and Lot 2 do not have p-values that are small enough for us the reject the null hypothesis, whereas Lot 3 has a p-value of 0.04168 which we can use to reject the null hypothesis. See below calculations.
 
-![This is an image]()
-![This is an image]()
-![This is an image]()
+Lot 1
+![This is an image](https://github.com/ddigioac/MechaCar_Statistical_Analysis/blob/a41e4fa01d08247a7a17b4acd77ddb122afb5162/Lot%201.png)
+
+Lot 2
+![This is an image](https://github.com/ddigioac/MechaCar_Statistical_Analysis/blob/a41e4fa01d08247a7a17b4acd77ddb122afb5162/Lot%202.png)
+
+Lot 3
+![This is an image](https://github.com/ddigioac/MechaCar_Statistical_Analysis/blob/a41e4fa01d08247a7a17b4acd77ddb122afb5162/Lot%203.png)
 
 ## Study Design: MechaCar vs Competition
 
